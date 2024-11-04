@@ -21,3 +21,5 @@ Some key risks associated with AI include: job automation where AI could replace
 # October 28, 2024
  AI’s ability to create deepfakes and spread disinformation, especially through social media platforms, can create false narratives, impersonate candidates, and manipulate public opinion.
  AI can help campaigns create messages that target audiences more precisely by collecting and analyzing massive amounts of voter demographic and behavioral data. 
+# November 4, 2024
+ If sensitive data falls into the wrong hands, it can lead to fraud, identity theft, or similar harms. use strong, unique passwords, enable two-factor authentication (2FA), regularly review your privacy settings, avoid sharing sensitive information publicly, carefully manage who has access to your repositories, and monitor your account activity for suspicious behavior. The only personal thing I posted online was having my real name as my username in ganes. use dedicated platforms with robust privacy settings, clearly communicate your boundaries, share only necessary information, utilize pseudonyms when appropriate, encrypt sensitive data, and be mindful of what you post publicly;
