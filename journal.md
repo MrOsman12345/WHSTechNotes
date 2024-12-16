@@ -33,3 +33,5 @@ Improved natural language processing (NLP):
 AI systems are better at understanding complex language nuances, leading to more natural and contextually relevant interactions with chatbots and virtual assistants. It is interesting that you can have a full conversation with chatbots.  Email filters are one of the most basic and initial applications of NLP online. As NLP technologies continue to evolve and permeate various aspects of our lives, it is essential to address the ethical considerations associated with their use. Key issues such as bias, privacy, transparency, and ethical communication must be carefully managed to ensure that NLP is used responsibly and ethically .
 # December 9, 2024 
 Brain rot is watching mindless entertainment and possibly lose some brain cells afterward. I feel like brain rot has a negative impact because there are more cases of ADHD than in the last couple years. Slop is basically a low quality video that I sometimes watch. Lore is a hidden story inside a game like Five Nights at Freddy. It is impossible to avoid brain rot if you watch TikTok.
+# December 16, 2024
+I am so ready to lay on my bed for 2 and a half weeks.
