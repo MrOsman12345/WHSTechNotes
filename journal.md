@@ -35,3 +35,5 @@ AI systems are better at understanding complex language nuances, leading to more
 Brain rot is watching mindless entertainment and possibly lose some brain cells afterward. I feel like brain rot has a negative impact because there are more cases of ADHD than in the last couple years. Slop is basically a low quality video that I sometimes watch. Lore is a hidden story inside a game like Five Nights at Freddy. It is impossible to avoid brain rot if you watch TikTok.
 # December 16, 2024
 I am so ready to lay on my bed for 2 and a half weeks.
+# January 8, 2025
+The thing I enjoy about last semester was doing nothing and working on projects with a fellow classmate. The only thing that needs to improve is to stop being lazy. I just want to play video games and probadly make a 2D video game. As of right now, I don't feel pursuring a certifications.
