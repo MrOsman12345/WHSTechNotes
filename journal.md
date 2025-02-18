@@ -70,3 +70,5 @@ Sensors and diagnostic systems continuously monitor the health of critical aircr
 | Hexagon  |   Browm    |    6   |
 | Triangle |   Purple    |    4   |
 | Octagon  |    Red   |  3     |
+# February 18, 2025
+The most interesting thing that I learned was that my phone ran out of storage. The reason it ran out of storage was because a game I had was about  17.7 GB. And my phone only had about 22 GB. So, I can buy more storage or a new phone(which I want). 
