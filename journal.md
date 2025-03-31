@@ -42,7 +42,7 @@ The shift towards prioritizing AI skills in the tech industry is a complex devel
 # January 22, 2025
 I remember when the government intervene on Youtube, it made it where people had to say if their video is for kids or adults. But, if they say the video is for adults but your video is family friendly, then you can get fined $50,000+. How a company like TikTok can address security concerns is by monitoring videos as soon as it comes out. And make it where the app is not listening to you. One thing I want to do as a TikTok developer is to make it where you can't upload fake AI of someone who actually committed suicide. The main lesson I learned is to program a thing to ban someone who made a 18+ video. 
 
-# January 27, 2024
+# January 27, 2025
 | Name     | Car | Mistake |
 | :------- | :-- | :------ |
 | Jimmy    |  Honda Civic   |   Drilled Hole in Gas Tank      |
@@ -76,8 +76,10 @@ The most interesting thing that I learned was that my phone ran out of storage. 
 Technology can help teachers understand slang by watching some Gen-Z influencers. For example, I suggest the older generations to watch Kai Cenat and Duke Dennis. They might be traumatize, but it can help them learn the slangs easier. Integrating slang translation tools into educational apps, AI chatbots, or online resources could offer benefits like improved language comprehension for learners, especially in informal settings, and increased engagement by allowing them to understand colloquial language, but also presents challenges including potential inaccuracies in translation, cultural misunderstandings, and the risk of promoting inappropriate language use depending on the slang context and implementation methods. I suggest that schools shouldn't use some slangs and we can just talk normally. Ways in which K-12 teachers think using slang in an academic setting affects students' language development: It can lead to misunderstandings or miscommunications (54%). It may disrupt the learning environment (50%). It diminishes formal writing skills (41%).
 # March 17, 2025
 I have a old Android phone that I watch Youtube and t.v shows on. I had games but I used up too much storage to play games. My phone can help me go on Google to search things. My phone can entertain me by watching Netflix and Youtube. I also have a chromebook that I use to complete school work. The only negative about it is that I can't play Cool Math on it. 
-# March 24, 202
+# March 24, 2025
 Technology advancements had allowed people to watch the games on a TV, phone, or PlayStation. AI can be ok in sports but, I don't want AI to be a part of everything. Social media can be a good thing for players to interact with their fans.  Responding to Comments and Direct Messages:
 Personalized Responses: Taking the time to reply to comments and direct messages shows fans that their opinions and questions are valued. 
 Building Relationships: Engaging in conversations fosters a sense of connection and community among fans. 
 Addressing Concerns: Promptly addressing concerns or questions can build trust and loyalty.  
+# March 31, 2025
+I feel great because I know that I never have to come back to this school after this year. So far, the class I dread is my 4th period because there are some anooying kids in there. During stressful times, I watch my favorite youtubers or play video games. My main goal for the rest of the year is being able to graduate.
