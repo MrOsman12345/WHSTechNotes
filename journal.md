@@ -83,3 +83,11 @@ Building Relationships: Engaging in conversations fosters a sense of connection 
 Addressing Concerns: Promptly addressing concerns or questions can build trust and loyalty.  
 # March 31, 2025
 I feel great because I know that I never have to come back to this school after this year. So far, the class I dread is my 4th period because there are some anooying kids in there. During stressful times, I watch my favorite youtubers or play video games. My main goal for the rest of the year is being able to graduate.
+# April 7, 2025
+Students sitting for their STAAR exams this week will be part of a new method of evaluating Texas schools: Their written answers on the state’s standardized tests will be graded automatically by computers.
+
+The Texas Education Agency is rolling out an “automated scoring engine” for open-ended questions on the State of Texas Assessment of Academic Readiness for reading, writing, science and social studies. The technology, which uses natural language processing, a building block of artificial intelligence chatbots such as GPT-4, will save the state agency about $15 million to 20 million per year that it would otherwise have spent on hiring human scorers through a third-party contractor.
+
+The change comes after the STAAR test, which measures students’ understanding of state-mandated core curriculum, was redesigned in 2023. The test now includes fewer multiple choice questions and more open-ended questions — known as constructed response items. After the redesign, there are six to seven times more constructed response items.
+
+“We wanted to keep as many constructed open ended responses as we can, but they take an incredible amount of time to score,” said Jose Rios, director of student assessment at the Texas Education Agency.
