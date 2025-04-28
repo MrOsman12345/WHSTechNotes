@@ -93,3 +93,9 @@ The change comes after the STAAR test, which measures students’ understanding 
 “We wanted to keep as many constructed open ended responses as we can, but they take an incredible amount of time to score,” said Jose Rios, director of student assessment at the Texas Education Agency.
 # April 14, 2025
 I feel like banning cell phones from schools can be detrimental to students. For example, during a emergency you'll have to call your parents about the situation. Banning cell phones might make students more productive in class. But, not banning cell phones can help students if they don't have their chromebook. I will be fine with the restrictions because I don't bring my phone to school. The other kids will start having a panic attack if they don't have their phones for 5 seconds.
+# April 28, 2025
+| Name     | Flavor | Occasion | Price |
+| :------- | :----- | :------- | :---- |
+| Sally    |    Chocolate    |     Graduation     |    $35.00   | 
+| Michael  |    Vanilla    |     Farewell Party     |    $37.00   | 
+| Emma     |    Carrot    |     Birthday     |    $39.00   | 
