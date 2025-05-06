@@ -99,3 +99,5 @@ I feel like banning cell phones from schools can be detrimental to students. For
 | Sally    |    Chocolate    |     Graduation     |    $35.00   | 
 | Michael  |    Vanilla    |     Farewell Party     |    $37.00   | 
 | Emma     |    Carrot    |     Birthday     |    $39.00   | 
+# May 5, 2025
+I believe that 100 men can destroy one gorilla because if we just rush the gorilla, then it will be easy work. Even if a gorilla is stronger than 20 adult men, I feel like 10 people can take down a gorilla. I don't see people actually doing this trend because alot of people would die. I can see some dumb 20 year olds TikTokers trying to do this challenge. This trend is dumb because this is a question that I would tell my brother years ago. I bet the next trend will be 1,000 men vs. a Tank.
